@@ -24,12 +24,12 @@ logging.basicConfig(
 )
 
 # ===== CONFIG =====
-BOT_TOKEN = "8107645453:AAHrB9qphlEdujfkTOAhHEcAkUqPuJsOKmk"
+BOT_TOKEN = "YOUR BOT TOKEN"
 
 # ===== CREDENTIALS =====
-USERNAME = "Green_mariaz14064@gmx.com"
-PASSWORD = "Shevel2025"
-CASE_ID = "0616A463-0E2A-4DCA-B3C6-574C9ACA6343"
+USERNAME = "EMAIL"
+PASSWORD = "PASS"
+CASE_ID = "CASE_ID"
 
 # ===== TOR BROWSER PROXY =====
 TOR_PROXIES = {
